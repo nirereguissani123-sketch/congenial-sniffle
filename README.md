@@ -1,1 +1,1 @@
-Build me a website that can help me make 1million Ugandan shillings
+a Uganda-rooted health & lifestyle site called Obulamu ("life" in Luganda) — practical, low-cost wellness advice for everyday Ugandans (walking commutes, market food, budget fitness), not generic Western "10 superfoods" content.
